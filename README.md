@@ -1,2 +1,0 @@
-# IO-lab
-UML zoo
